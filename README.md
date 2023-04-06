@@ -1,0 +1,1 @@
+Projeto desenvolvido na maratona de programação da Kenzie Academy Brasil. Fiz algumas mudanças, como interações em botões e um input de pesquisa para buscar os filmes. Também corrigi o problema que dava ao clicar nos espaços entre as categorias dos filmes(A função retornava algo vazio, por estar clicando em uma área sem texto). Além disso, fiz algumas pequenas otimizações.
